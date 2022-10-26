@@ -1,0 +1,8 @@
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\bin\Debug\if_switch_case_practice.exe.config
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\bin\Debug\if_switch_case_practice.exe
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\bin\Debug\if_switch_case_practice.pdb
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\obj\Debug\if_switch_case_practice.csproj.AssemblyReference.cache
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\obj\Debug\if_switch_case_practice.csproj.SuggestedBindingRedirects.cache
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\obj\Debug\if_switch_case_practice.csproj.CoreCompileInputs.cache
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\obj\Debug\if_switch_case_practice.exe
+D:\C# Diaries\if_switch_case_practice\if_switch_case_practice\obj\Debug\if_switch_case_practice.pdb
